@@ -19,6 +19,7 @@ public class JavaApplication1 {
         
         System.out.println("Hello Aiza");
         System.out.println("Hello Ammad");
+        System.out.println("This is added by ammad");
 
     }
     
